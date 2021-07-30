@@ -1,0 +1,54 @@
+{
+  "multiItems": [
+    {
+      "id": 1,
+      "items": [
+        {
+          "x": 30,
+          "y": 100,
+          "radius": 20,
+          "fill": "red",
+          "stroke": "black",
+          "strokeWidth": 2
+        },
+        {
+          "x": 100,
+          "y": 100,
+          "radius": 20,
+          "fill": "red",
+          "stroke": "black",
+          "strokeWidth": 2
+        }
+      ],
+      "configKonva": {
+        "width": 200,
+        "height": 200
+      }
+    },
+    {
+      "id": 2,
+      "items": [
+        {
+          "x": 0,
+          "y": 100,
+          "radius": 20,
+          "fill": "red",
+          "stroke": "black",
+          "strokeWidth": 2
+        },
+        {
+          "x": 70,
+          "y": 100,
+          "radius": 20,
+          "fill": "blue",
+          "stroke": "black",
+          "strokeWidth": 2
+        }
+      ],
+      "configKonva": {
+        "width": 200,
+        "height": 200
+      }
+    }
+  ]
+}
